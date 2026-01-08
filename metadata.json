@@ -1,0 +1,5 @@
+{
+  "name": "Chess Tic-Tac-Toe",
+  "description": "A strategic hybrid of Chess and Tic-Tac-Toe played on a 4x4 grid. Place pieces, move them using chess rules, and align 4 in a row to win.",
+  "requestFramePermissions": []
+}
